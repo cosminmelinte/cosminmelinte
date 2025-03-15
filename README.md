@@ -4,6 +4,11 @@
 
 ---
 
+## **About Me**
+
+I am eager to gain experience in the field and enthusiastic about working with diverse frameworks and technologies in collaborative settings, similar to the projects detailed below.
+I am adaptable and dedicated to contributing effectively in team environments, always seeking opportunities to learn and grow professionally. 
+
 ## **Education**
 
 **Universitatea „Alexandru Ioan Cuza” din Iași**\
@@ -15,33 +20,36 @@
 
 ### **[Childcare Manager](https://github.com/Spaghedi3/ChildCare-Manager)**
 
-- Designed to assist parents, couples, and caretakers in managing childcare tasks and tracking important developmental milestones of children.
+- Developed with a colleague to assist parents and caretakers in managing childcare tasks and tracking children's developmental milestones, and offering a user-friendly interface designed for effortless navigation.
 - **Tech Stack:** PHP, JavaScript, MySQL, Apache (XAMPP)
 
 ### **[BookingIasi](https://github.com/vladsuper5555/BookingIasi)**
 
-- Developed as part of the Software Engineering class at the Faculty of Computer Science, Alexandru Ioan Cuza University in Iași. Provides an intuitive and efficient booking system for various locations within Iași.
-- Features user profile creation, 3D visualization of locations, and local deployment using Docker while enforcing strict security policies (CSP with nonce-based fetching).
+- An intuitive booking system for various locations within Iaşi, offering a seamless reservation experience.
+- Collaborated within a small team focused on developing the 3D visualization of locations, contributing to a larger project with multiple teams working on different features.
 - **Tech Stack:** Vite, React, Node.js, Express.js, Oracle Database, Docker
 
 ### **[Realio](https://realio-five.vercel.app/)**
 
-- A property management system designed to streamline real estate operations, offering features like role-based authentication and property listing management.
-- **Tech Stack:** C#, ASP.NET, Entity Framework
+- Worked with a team to create a property management system designed to streamline real estate operations, featuring property listing management, transaction handling, and an integrated ML capability for price estimation.
+- **Tech Stack:** C#, ASP.NET, Entity Framework, PostgreSQL
 
 ### **[Dojo Rumble](https://www.youtube.com/watch?v=n8yishOh6F8)**
 
-- A VR cultural immersion experience where you, a defeated foreign soldier, discover the depths of Japanese culture after being spared and taken in by the samurai who bested you in combat.
+- A VR cultural immersion experience allowing users to explore Japanese culture through the eyes of a defeated foreign soldier, developed within a small team.
 - **Tech Stack:** Unity, C#, XR Interaction Toolkit
 
 ## **Technical Skills**
 
 - **Programming Languages:** C#, C/C++, Java, JavaScript, PHP, Python
-- **Frameworks & Technologies:** .NET, ASP.NET, Node.js
+- **Frameworks & Technologies:** .NET, Node.js
 - **Databases:** PostgreSQL, MySQL, Oracle Database
 - **Version Control:** Git, GitHub
 
 ## **Languages**
 
-- **English:** Advanced
+- **English:** Fluent
 - **Romanian:** Native
+
+## **Interests** 
+- Traveling, Sports, Urbanism, Artificial Intelligence, Movies & TV, Gaming
